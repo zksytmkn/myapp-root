@@ -20,10 +20,10 @@
 
 ## 使用技術
 ### フロントエンド
-・ Vue.js v2.7.10  
-・ Nuxt.js v2.15.8 （SPAモード）  
-・ Vuetify  
-・ JavaScript  
+-Vue.js v2.7.10
+-Nuxt.js v2.15.8 （SPAモード）
+-Vuetify
+-JavaScript
 
 ### バックエンド
 ### インフラ
