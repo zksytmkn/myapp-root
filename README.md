@@ -37,6 +37,7 @@
 ## インフラ構成図
 
 ## ER図
+![edible drawio (2)](https://github.com/zksytmkn/myapp_root/assets/86869822/039bcbfc-1c3d-40b9-8dfd-5df312d193ca)
 
 ## 使用技術
 ### フロントエンド
