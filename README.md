@@ -35,6 +35,7 @@
 ・レスポンシブ対応  
 
 ## インフラ構成図
+![infra drawio](https://github.com/zksytmkn/myapp_root/assets/86869822/26e4e5cc-9d1a-4e35-8bc5-58ecaa905c80)
 
 ## ER図
 ![edible drawio (2)](https://github.com/zksytmkn/myapp_root/assets/86869822/039bcbfc-1c3d-40b9-8dfd-5df312d193ca)
@@ -57,8 +58,7 @@
 ### インフラ
 - MySQL v8.0.31
 - Docker v20.10.21
-
 - Docker Compose v2.13.0
 
 ### その他
-AWS (ECS, ECR, RDS, S3, etc.)
+AWS (ECR, ECS, Fargate, VPC, S3, Route53, ALB, RDS, ACM, etc.)
