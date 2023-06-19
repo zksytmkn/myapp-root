@@ -61,3 +61,4 @@
 - Docker Compose v2.13.0
 
 ### その他
+AWS (ECS, ECR, RDS, S3, etc.)
