@@ -8,6 +8,8 @@
 <img width="1440" alt="スクリーンショット 2023-06-08 1 52 53" src="https://github.com/zksytmkn/myapp_root/assets/86869822/75953b4b-22e1-4d0d-b11e-360f893724b8">
 
 ## URL
+~~https://edible-app.com~~
+(一時停止中)
 
 ## 機能一覧
 ・新規登録, ログイン, ゲストログイン, ログアウト  
