@@ -45,7 +45,7 @@
 ## 使用技術
 ### フロントエンド
 - JavaScript
-- Vue.js v2.7.10
+- Vue.js v2.7.14
 - Nuxt.js v2.15.8 （SPAモード）
 - Vuetify v2.6.10
 - ESLint v8.40.0
